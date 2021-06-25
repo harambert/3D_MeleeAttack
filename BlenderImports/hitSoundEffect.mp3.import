@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/hitSoundEffect.mp3-10cac131c7ea51386b368e771b31e99d.mp3str"
+
+[deps]
+
+source_file="res://BlenderImports/hitSoundEffect.mp3"
+dest_files=[ "res://.import/hitSoundEffect.mp3-10cac131c7ea51386b368e771b31e99d.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
